@@ -7,6 +7,10 @@ Python implementations of nine Exploratory Data Analysis assignments, converted 
 **Course:** BCSE331P - Exploratory Data Analysis  
 **Semester:** Fall 2026-27
 
+# Video Link: https://drive.google.com/drive/folders/1f1yuMfQSepzRKk1ZTfraCkUKdmYQTEp9?usp=sharing
+
+# Github Link: https://github.com/JayacharanR/EDA-Assignment
+
 ## Assignments
 
 | Assignment | Topic | Main operations |
